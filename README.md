@@ -4,7 +4,7 @@
 
 - ☕ Coffee lover
 - 💻 Constantly learning and applying knowledge in projects
-- 🌐 You can check some of my projects clicking <a href="https://github.com/leoamora94?tab=repositories">here</a>
+- 🌐 You can check some of my projects clicking <a href="https://leoamora94.github.io/portfolio">here</a>
 
 
 ## Programming Langages and Tools
